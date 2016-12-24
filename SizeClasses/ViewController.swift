@@ -20,6 +20,10 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
-//Code here
+    // this is just the example of sizeClasses
+    //Go to Main StoryBoard and check it,, run the app you can see 
+    //the power of size classes
+    
+    
 }
 
